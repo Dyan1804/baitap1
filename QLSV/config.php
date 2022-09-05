@@ -7,3 +7,4 @@ define('DBNAME','quanly');
 
 //them comment
 //deptrai
+//bacsikhamrangchodoiban
