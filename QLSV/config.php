@@ -4,3 +4,6 @@ define('USERNAME','root');
 define('PASSWORD','');
 define('DBNAME','quanly');
 ?>
+
+//them comment
+//deptrai
