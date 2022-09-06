@@ -34,3 +34,4 @@ function executeResult($sql) {
 	?>
 </body>
 </html>
+//nhom7lop70dctt24
